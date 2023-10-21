@@ -1,0 +1,15 @@
+.user-table
+{
+    width: max-content;
+    margin: 0 auto;
+}
+
+#table
+{
+    border: 0;
+}
+
+#table th
+{
+    padding: 20px;   
+}
