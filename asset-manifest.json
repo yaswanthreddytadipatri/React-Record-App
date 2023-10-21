@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Record-App/static/css/main.e3c7fe74.css",
+    "main.js": "/React-Record-App/static/js/main.7b02013f.js",
+    "static/js/787.1d67568b.chunk.js": "/React-Record-App/static/js/787.1d67568b.chunk.js",
+    "index.html": "/React-Record-App/index.html",
+    "main.e3c7fe74.css.map": "/React-Record-App/static/css/main.e3c7fe74.css.map",
+    "main.7b02013f.js.map": "/React-Record-App/static/js/main.7b02013f.js.map",
+    "787.1d67568b.chunk.js.map": "/React-Record-App/static/js/787.1d67568b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c7fe74.css",
+    "static/js/main.7b02013f.js"
+  ]
+}
